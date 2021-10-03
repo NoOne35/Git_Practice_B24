@@ -1,8 +1,7 @@
-package setup;
-
 public class First {
     public static void main(String[] args) {
         System.out.println("Hello World");
+
 
         //This is a new line
 
@@ -10,8 +9,5 @@ public class First {
 
         // The text doesnt matter
 
-        // third commit
-
-        // more lines
     }
 }
