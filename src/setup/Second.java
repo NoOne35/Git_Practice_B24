@@ -11,8 +11,7 @@ public class Second {
     }
 
     public void m(String s){
-
-
+//THIS IS EXAMPLES
     }
 }
 
